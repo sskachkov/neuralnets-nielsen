@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# OS junk
+.DS_Store
+
+# Editor
+.vscode/
+
+# Dataset (see README for how to fetch)
+data/
+mnist.pkl
